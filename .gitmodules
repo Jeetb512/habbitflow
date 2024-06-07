@@ -1,0 +1,5 @@
+[submodule "flutter"]
+	path = .flutter
+	url = https://github.com/flutter/flutter.git
+	tag = 3.13.9
+
