@@ -15,9 +15,6 @@ habits more effectively.
 
 Moreover, this app completely open source.
 
-[![Get it on F-Droid][fdroid-button]][fdroid-myapp]
-[![Get it on F-Droid][github-button]][github-myapp]
-
 ## Screenshots
 
 [![Create new habit][create-new-habit-tb]][create-new-habit]
