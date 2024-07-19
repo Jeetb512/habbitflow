@@ -112,7 +112,7 @@ you can follow [docs/add_new_locale_support][l10n-doc] to get incolved.
 ## License
 
 ```text
-Copyright 2023 Fries_I23
+Copyright 2023 jb512
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
