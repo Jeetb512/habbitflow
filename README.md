@@ -9,7 +9,7 @@
 
 [![Trello][app-trello-badge]][app-trello-board]
 
-"Table Habit" is an app that helps you establish and track your own micro habit.
+"habbitflow" is an app that helps you establish and track your own micro habit.
 Its includes a complete set of growth curves and charts to help you establish
 habits more effectively.
 
